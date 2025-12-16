@@ -26,8 +26,8 @@
 
 1. Клонировать репозиторий:
    ```sh
-   git clone https://github.com/your_repo/restt.git
-   cd restt
+   git clone https://github.com/platon453/REST_API.git
+   cd REST_API
    ```
 
 2. Установить зависимости и собрать проект:
